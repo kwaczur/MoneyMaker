@@ -12,3 +12,4 @@
 /Users/Bartek/Documents/10 Projekty/VS Code/Math/Math/Math/obj/Debug/net10.0/Math.pdb
 /Users/Bartek/Documents/10 Projekty/VS Code/Math/Math/Math/obj/Debug/net10.0/Math.genruntimeconfig.cache
 /Users/Bartek/Documents/10 Projekty/VS Code/Math/Math/Math/obj/Debug/net10.0/ref/Math.dll
+/Users/Bartek/Documents/10 Projekty/VS Code/Math/Math/Math/obj/Debug/net10.0/Math.sourcelink.json
